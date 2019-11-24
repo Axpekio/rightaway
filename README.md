@@ -1,7 +1,7 @@
 # rightaway 
 这个库是我从其他大佬那里搬运过来的，为了防止有一天项目突然消失。
-
-# SHELL
+修改了一些代码以适用于我的工作环境
+# 
 
 [![GitHub license](https://img.shields.io/github/license/XIU2/SHELL.svg?style=flat-square)](https://github.com/XIU2/SHELL/blob/master/LICENSE)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
