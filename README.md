@@ -1,3 +1,6 @@
+# rightaway 
+这个库是我从其他大佬那里搬运过来的，为了防止有一天项目突然消失。
+
 # SHELL
 
 [![GitHub license](https://img.shields.io/github/license/XIU2/SHELL.svg?style=flat-square)](https://github.com/XIU2/SHELL/blob/master/LICENSE)
